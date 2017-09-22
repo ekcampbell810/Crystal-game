@@ -1,0 +1,66 @@
+div#ccTitle {
+	width: 240px;
+	height: 50px;
+	background-color: orange;
+	font-size: 28px;
+	color: white;
+	margin: 8px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+div#explanation-box {
+	width: 300px;
+	height: auto;
+	background-color: #ffebcd;
+	font-size: 14px;
+	color: green; 
+	margin: 8px;
+	padding: 5px;
+}
+
+div#goal-box {
+	width: 200px;
+	height: 100px;
+	background-color: #8FBC8F;
+	font-size: 28px;
+	color: purple;
+	margin: 8px;
+	float: left;
+}
+
+div#win-lose-box {
+	width: 88px;
+	height: 100px;
+	background-color: #00FFFF;
+	color: white;
+	float: left;
+	margin: 8px 0px 8px 0px;
+
+}
+
+div#crystals {
+	clear: left;
+}
+
+div#total-highlight {
+	width: 200px;
+	height: 25px;
+	background-color: #008B8B;
+	margin: 8px;
+}
+
+div#total-score-box {
+	width: 200px;
+	height: 100px;
+	background-color: #008B8B;
+	font-size: 28px;
+	color: purple;
+	margin: 8px;
+}
+
+div#crystals {
+	cursor: pointer;
+}
+
+
